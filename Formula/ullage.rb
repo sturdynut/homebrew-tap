@@ -1,8 +1,8 @@
 class Ullage < Formula
-  desc "See how full your Claude Code and Codex context windows are, from the menu bar"
+  desc "Menu bar gauge for how full your coding agents' context windows are"
   homepage "https://github.com/sturdynut/Ullage"
-  url "https://github.com/sturdynut/Ullage/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "9ac05a9cee37a27ddf65dc363e0658a6cbf85d9583110f4d482d8140f3b40a2e"
+  url "https://github.com/sturdynut/Ullage/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "44c8d6e7b9899ba5d81ad2f9c89dbd32863c1c61951830ad3343bb392539238d"
   # PolyForm Shield 1.0.0 (LICENSE.md), which Homebrew's SPDX list does not include.
   license :cannot_represent
   head "https://github.com/sturdynut/Ullage.git", branch: "main"

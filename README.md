@@ -4,7 +4,7 @@ Homebrew formulae by [sturdynut](https://github.com/sturdynut).
 
 ## Ullage
 
-See how full your Claude Code and Codex context windows are, from the macOS
+See how full your coding agents' context windows are, from the macOS
 menu bar. [Project page](https://github.com/sturdynut/Ullage).
 
 ```bash
